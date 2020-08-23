@@ -1,0 +1,64 @@
+{
+  "allproducts": [
+    {
+      "name": "One plus Nord 5G",
+      "price": "32500",
+      "rating": "10",
+      "stock": 139,
+      "category": "Mobile",
+      "description": "Very new awesome product",
+      "image": "https://www.businessinsider.in/thumb/msid-77061678,width-600,resizemode-4,imgsize-186677/tech/mobile/news/checkout-upcoming-affordable-smartphone-oneplus-nord-launch-price-specifications-features/oneplus-nord.jpg",
+      "id": 1
+    },
+    {
+      "name": "Oppo",
+      "price": "20000",
+      "rating": "9",
+      "stock": 150,
+      "category": "Mobile",
+      "description": "Brand new mobile by oppo",
+      "image": "https://cdn.slashgear.com/wp-content/uploads/2020/01/IMG_1521-1280x720.jpg",
+      "id": 2
+    },
+    {
+      "name": "Redmi",
+      "price": "14000",
+      "rating": "9",
+      "stock": 161,
+      "category": "Mobile",
+      "description": "Brand New Mobile by Redmi",
+      "image": "https://images.hindustantimes.com/tech/img/2020/08/04/960x540/untitled_image_-_2020-08-04T125641.656_1596526000361_1596526006275.jpg",
+      "id": 3
+    },
+    {
+      "name": "Samsung Galaxy M31",
+      "price": "20000",
+      "rating": "9",
+      "stock": 139,
+      "category": "Mobile",
+      "description": "Brand new mobile by Samsung ",
+      "image": "https://www.androidcentral.com/sites/androidcentral.com/files/styles/larger_wm_brw/public/article_images/2020/02/samsung-galaxy-s20-series-all-three-6.jpg?itok=GzVWGxpc",
+      "id": 4
+    },
+    {
+      "name": "Asus",
+      "price": "50000",
+      "rating": "10",
+      "stock": "132",
+      "category": "Laptop",
+      "description": "New Laptop at reasonable rates",
+      "image": "https://cdn.vox-cdn.com/thumbor/GQDfoB7XLCdR4mx-S-5yIkOIAPg=/0x0:5000x5000/920x613/filters:focal(2100x2100:2900x2900):format(webp)/cdn.vox-cdn.com/uploads/chorus_image/image/66591602/GX550_C04_v6_Light.0.png",
+      "id": 5
+    },
+    {
+      "name": "Redmi note",
+      "price": "12500",
+      "rating": "10",
+      "stock": "123",
+      "category": "Mobile",
+      "image": "https://images.hindustantimes.com/tech/img/2020/08/04/960x540/untitled_image_-_2020-08-04T125641.656_1596526000361_1596526006275.jpg",
+      "description": "New good phone",
+      "id": 6
+    }
+  ]
+}
